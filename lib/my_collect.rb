@@ -1,7 +1,7 @@
 require 'pry'
 
-def my_collect(collection) do |lang|
-  lang.upcase
+def my_collect(array) 
+  
 
 end
 
