@@ -11,5 +11,4 @@ end
 name_collection
 end
 
-end
 
