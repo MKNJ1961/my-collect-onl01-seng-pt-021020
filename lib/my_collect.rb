@@ -1,6 +1,6 @@
 require 'pry'
 
-def my_collect(language, students)
+def my_collect(collection)
   puts
 end
 
